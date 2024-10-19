@@ -1,5 +1,22 @@
+/da/.mvn
+/da/mvnw
+/da/mvnw.cmd
 
-/da
+/da/HELP.md
+/da/target/
+/da/!.mvn/wrapper/maven-wrapper.jar
+/da/!**/src/main/**/target/
+/da/!**/src/test/**/target/
+
+/da/src/main/resources/venv
+/da/.gitignore
+
+### IntelliJ IDEA ###
+/da/.idea
+/da/*.iws
+/da/*.iml
+/da/*.ipr
+
 /da-ui/node_modules
 /da-ui/coverage
 /da-ui/build
