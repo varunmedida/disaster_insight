@@ -1,0 +1,17 @@
+
+/da
+/da-ui/node_modules
+/da-ui/coverage
+/da-ui/build
+/da-ui/.pnp.js
+/da-ui/.DS_Store
+/da-ui/.env.local
+/da-ui/.env.development.local
+/da-ui/.env.test.local
+/da-ui/.env.production.local
+
+/da-ui/npm-debug.log*
+/da-ui/yarn-debug.log*
+/da-ui/yarn-error.log*
+
+.DS_Store
